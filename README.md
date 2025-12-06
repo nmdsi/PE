@@ -86,10 +86,11 @@ benchmark_results.csv
 ```
 ## Repository Structure
 ```
-main.py       # DSL parser, AST, partial evaluator, residual code emitter
-bench.py      # Benchmark suite
-eval.py       # Quick evaluation runner
-pandasfinal.pdf
+main.py     # DSL parser, AST, partial evaluator, residual code emitter
+bench.py    # Benchmark suite
+eval.py     # Quick evaluation runner
+m3d1.csv    #Data file1
+m3d2.csv    #Data file 2
 README.md
 ```
 ## Limitations
